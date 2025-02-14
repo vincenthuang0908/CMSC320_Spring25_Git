@@ -20,3 +20,9 @@ the histories of the two branches separately and instead rewrites the history by
 source branch onto the target branch.
 
 
+Q4: What are you looking forward to this semester?
+
+Answer: Learning more about different applications of data science and the programming languages and tools 
+associated with it. And getting an A in the class of course.
+
+
