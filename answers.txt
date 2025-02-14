@@ -4,8 +4,19 @@ Answer: It has version control so you have a history of different versions of yo
 
 Also, you can use it to collaborate with others where different people can push code onto a repository on GitHub.
 
+
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Finance, for instance you could analyze stock market data using data science to make predictive models 
 to predict what direction the market is going to go. 
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging creates a new merge commit with two branches, and the new merge commit is essentially a 
+version that contains the changes from both branches and also retains the histories of the two branches separately.
+On the other hand, rebasing also allows you to combine the changes from two different branches but it doesn't retain
+the histories of the two branches separately and instead rewrites the history by placing the history from the 
+source branch onto the target branch.
+
 
